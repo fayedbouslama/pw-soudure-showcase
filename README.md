@@ -120,8 +120,7 @@ About 2,600 lines of application code in 21 modules, and about 2,650 lines of te
 
 ## Development
 
-Developed by **Fayed Aziz Bouslama** in 2026, with the help of an AI coding assistant
-(Claude, by Anthropic). The private repository's history records every change and its rationale.
+Developed by **Fayed Aziz Bouslama** in 2026. The private repository's history records every change and its rationale.
 
 ---
 
